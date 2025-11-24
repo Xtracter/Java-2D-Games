@@ -2,13 +2,13 @@
 Clones of WinMine, Tetris and Breakout (Wipeout)
 
 Build and Run:<br/>
-> javac tetris/*.java
+> javac tetris/*.java<b>
 > java tetris.Tetris
 <p>
->javac jmine/*.java
+>javac jmine/*.java<br>
 >java jmine.MainFrame
 <p>
->javac wipeout/*.java
+>javac wipeout/*.java<br>
 >java wipeout.Wipeout
 
 <p>
